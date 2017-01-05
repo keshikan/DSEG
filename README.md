@@ -18,8 +18,8 @@ DSEG have special features:
 
 Please visit DSEG support page.
 
- - English:[http://www.keshikan.net/font-e.html](http://www.keshikan.net/font-e.html)
- - Japanese:[http://www.keshikan.net/font.html](http://www.keshikan.net/font.html)
+ - English:[http://www.keshikan.net/fonts-e.html](http://www.keshikan.net/fonts-e.html)
+ - Japanese:[http://www.keshikan.net/fonts.html](http://www.keshikan.net/fonts.html)
 
 ## License
 
