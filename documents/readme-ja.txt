@@ -54,13 +54,13 @@
 　　なお、フォント集としての公開・出版や、成果物へ同梱して販売することは可能です。
 
  ・注意事項
-　・OFLの規定に基づき、「DSEG」やその改変物を同梱した成果物を再配布する際は、必ずLICENSE-DSEG.txtの内容を同梱して下さい。
-　　ただし、ユーザーがフォントを取り出せない形での埋め込み(PDFへの埋め込み、Webフォントとしての使用、実行ファイルへの埋め込み)であれば、
-　　LICENSE.txtを必ずしも同梱する必要はありません。
+　・OFLの規定に基づき、「DSEG」やその改変物を同梱した成果物を再配布する際は、著作権表示又はLICENSE-DSEG.txtの内容を同梱して下さい。
+　　ただし、ユーザーがフォントを取り出せない形での埋め込み(PDFへの埋め込み、実行ファイルへの埋め込み)であれば、
+　　LICENSE-DSEG.txtの全文を必ずしも同梱する必要はありません。
 
 　　※詳しくは、OFL-FAQ(http://scripts.sil.org/cms/scripts/page.php?item_id=OFL-FAQ_web)の下記項目を参照して下さい。
 　　　・1.10 Does the full OFL license text always need to accompany the font?
-　　　　→文書やプログラムへに「埋め込む」場合であれば、ライセンス条文全文を表示する必要がない、との記述あり。
+　　　　→文書やプログラムへに「埋め込む」場合であれば、ライセンス全文を表示する必要がない、との記述あり。
 　　　・1.11 What do you mean by 'embedding'? How does that differ from other means of distribution?
 　　　　→「埋め込み」とは、ユーザがフォントファイル自体を取り出すのが難しい状態を指す、との記述有り。
 

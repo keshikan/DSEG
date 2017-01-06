@@ -42,7 +42,7 @@
  DSEG can be used for commercial or non-commercial, can be modify, and can be redistribute.
 
  * Notice
-  *If you redistribute DSEG or modified font itself, it should be include the text of LICENSE-DSEG.txt, and redistribute under SIL OPEN FONT LICENSE Version 1.1.
+  *If you redistribute DSEG or modified font itself, it should be indicated copyright or included the text of LICENSE-DSEG.txt, and redistribute under SIL OPEN FONT LICENSE Version 1.1.
    When DSEG is embedded in a document or bundled within a program, you can distribute them without the text of LICENSE-DSEG.txt .
    See also No.1.10, and No.1.11 in OFL-FAQ(http://scripts.sil.org/cms/scripts/page.php?item_id=OFL-FAQ_web) .
 
