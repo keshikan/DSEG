@@ -10,7 +10,7 @@ DSEG have special features:
  - Many types(over 50) are available.
  - Licensed under [SIL OPEN FONT LICENSE Version 1.1](http://scripts.sil.org/OFL)
 
-![DSEG Image](http://www.keshikan.net/img/DSEG_sample_vector.png)
+![DSEG Image](http://www.keshikan.net/img/DSEG_sample_vector2.png)
 
 ##Sample
 ![DSEG Sample Image](http://www.keshikan.net/img/DSEG_weather_sample.png)
