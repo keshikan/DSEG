@@ -25,7 +25,7 @@ Please visit DSEG support page.
 ## Changelog
 
  - v0.41(2017/01/07)
-  - Assigned all-segment-off status to exclamation mark(U+0022).
+  - Assigned all-segment-off status to exclamation mark(U+0021).
 
  - v0.40(2017/01/06)
   - First released in Github.
