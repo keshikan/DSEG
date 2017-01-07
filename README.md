@@ -24,6 +24,9 @@ Please visit DSEG support page.
 
 ## Changelog
 
+ - v0.41(2017/01/07)
+  - Assigned all-segment-off status to exclamation mark(U+0022).
+
  - v0.40(2017/01/06)
   - First released in Github.
   - Added weather icons "DSEGWeather".
@@ -31,5 +34,5 @@ Please visit DSEG support page.
 
 ## License
 
-- Any font files(*.ttf, *.woff, *.sfd) is licensed under the [SIL OPEN FONT LICENSE Version 1.1](http://scripts.sil.org/OFL)
+- Any font files(*.ttf, *.woff, *.sfd) are licensed under the [SIL OPEN FONT LICENSE Version 1.1](http://scripts.sil.org/OFL)
 
