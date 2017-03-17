@@ -17,7 +17,19 @@ DSEG have special features:
 
 ## Usage
 
-Please visit DSEG support page.
+ - Colon and Space
+
+   ![DSEG usage 1](http://www.keshikan.net/img/dseg_usage1.png)
+
+ - Period
+
+   ![DSEG usage 2](http://www.keshikan.net/img/dseg_usage2.png)
+
+ - All-off (exclamation)
+
+   ![DSEG usage 3](http://www.keshikan.net/img/dseg_usage3.png)
+
+For more information, visit DSEG support page.
 
  - English:[http://www.keshikan.net/fonts-e.html](http://www.keshikan.net/fonts-e.html)
  - Japanese:[http://www.keshikan.net/fonts.html](http://www.keshikan.net/fonts.html)
@@ -25,12 +37,12 @@ Please visit DSEG support page.
 ## Changelog
 
  - v0.41(2017/01/07)
-  - Assigned all-segment-off status to exclamation mark(U+0021).
+    - Assigned all-segment-off status to exclamation mark(U+0021).
 
  - v0.40(2017/01/06)
-  - First released in Github.
-  - Added weather icons "DSEGWeather".
-  - The license has been changed to the [SIL OPEN FONT LICENSE Version 1.1](http://scripts.sil.org/OFL).
+    - First released in Github.
+    - Added weather icons "DSEGWeather".
+    - The license has been changed to the [SIL OPEN FONT LICENSE Version 1.1](http://scripts.sil.org/OFL).
 
 ## License
 
