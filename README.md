@@ -25,9 +25,13 @@ DSEG have special features:
 
    ![DSEG usage 2](http://www.keshikan.net/img/dseg_usage2.png)
 
- - All-off (exclamation)
+ - All-off (Exclamation)
 
    ![DSEG usage 3](http://www.keshikan.net/img/dseg_usage3.png)
+
+ - All-on ("8" or Tilda)
+
+   ![DSEG usage 4](http://www.keshikan.net/img/dseg_usage4.png)
 
 For more information, visit DSEG support page.
 
