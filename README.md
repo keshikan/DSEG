@@ -40,6 +40,10 @@ For more information, visit DSEG support page.
 
 ## Changelog
 
+ - v0.42(2017/04/27)
+    - Added WOFF2 file format.
+    - Added [extended metadata block](https://www.w3.org/TR/WOFF/#Metadata)  to *.woff and *.woff2. 
+  
  - v0.41(2017/01/07)
     - Assigned all-segment-off status to exclamation mark(U+0021).
 
