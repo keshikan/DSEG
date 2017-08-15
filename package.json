@@ -1,27 +1,29 @@
 {
   "name": "dseg",
   "description": "7 segment and 14 segment LCD font",
-  "version": "0.42.0",
-  "style": "css/dse g.css",
+  "version": "0.43.0",
+  "style": "css/dseg.css",
   "keywords": [
     "font",
-    "lcd"
+    "lcd",
+    "icon"
   ],
   "homepage": "http://www.keshikan.net/fonts-e.html",
   "bugs": {
     "url": "https://github.com/keshikan/DSEG/issues"
   },
   "author": {
-    "name": "keshikan",
+    "name": "Keshikan",
     "web": "http://www.keshikan.net"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/keshikan/DSEG.git"
   },
-  "license": "SIL OFL 1.1",
+  "license": "OFL-1.1",
   "dependencies": {},
   "engines": {
     "node": ">=0.10.3"
   }
 }
+

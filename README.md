@@ -1,4 +1,4 @@
-DSEG Font Family
+DSEG Font Family (v0.43)
 ====
 
 ## Overview
@@ -38,7 +38,14 @@ For more information, visit DSEG support page.
  - English:[http://www.keshikan.net/fonts-e.html](http://www.keshikan.net/fonts-e.html)
  - Japanese:[http://www.keshikan.net/fonts.html](http://www.keshikan.net/fonts.html)
 
+## Install
+
+    $ npm install dseg
+
 ## Changelog
+
+ - v0.43(2017/04/27)
+    - Added package.json and registerd npmjs.com .
 
  - v0.42(2017/04/27)
     - Added WOFF2 file format.
