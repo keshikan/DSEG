@@ -38,14 +38,14 @@ For more information, visit DSEG support page.
  - English:[http://www.keshikan.net/fonts-e.html](http://www.keshikan.net/fonts-e.html)
  - Japanese:[http://www.keshikan.net/fonts.html](http://www.keshikan.net/fonts.html)
 
-## Install
+## Install for Node.js
 
     $ npm install dseg
 
 ## Changelog
 
- - v0.43(2017/04/27)
-    - Added package.json and registerd npmjs.com .
+ - v0.43(2017/08/15)
+    - Added package.json and registerd npmjs.com. ([merged pull request #5](https://github.com/keshikan/DSEG/pull/5))
 
  - v0.42(2017/04/27)
     - Added WOFF2 file format.
