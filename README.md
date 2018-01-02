@@ -45,8 +45,8 @@ For more information, visit DSEG support page.
 ## Changelog
 
  - v0.44(2018/01/02)
-    - Modified colon character position for balancing in Italic style. See below.
-      - ![DSEG v044](http://www.keshikan.net/img/dseg_mod_v044.png)
+    - Modified colon character position for balancing in Italic style. See below.  
+![DSEG v044](http://www.keshikan.net/img/dseg_mod_v044.png)
     - Added License metadata to *.ttf .
     - Changed file name of *.sfd to match it's font-name.
   
