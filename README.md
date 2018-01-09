@@ -40,16 +40,13 @@ For more information, visit DSEG support page.
 
 ## Install for Node.js
 
-    $ npm install dseg
-
-## Build *ttf from *.sfd
-
     $ make
+    $ npm install dseg
 
 ## Changelog
 
  - v0.45(2018/01/09)
-    - Added makefile and build script. (Merged #8 #9 . Thanks to [alexmyczko](https://github.com/alexmyczko))
+    - Added makefile and build script. (Merged [#8](https://github.com/keshikan/DSEG/pull/8) [#9](https://github.com/keshikan/DSEG/pull/9) . Thanks to [alexmyczko](https://github.com/alexmyczko))
 
  - v0.44(2018/01/02)
     - Modified colon character position for balancing in Italic style. See below.  
