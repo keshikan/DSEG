@@ -1,0 +1,12 @@
+#!/bin/bash
+
+for a in src/*.sfd; do
+    fontfile=$(basename $a .sfd)
+    namedir=$(echo $fontfile | sed "s,-.*,," | sed "s,Mini,-MINI,g;s,Modern,-Modern,;s,Classic,-Classic,;s,7SEGG,-7SEGG-,")
+    name=$(echo $fontfile | sed "s,-.*,,")
+    type=$(echo $fontfile | sed "s,.*-,,")
+    mkdir -p fonts/${namedir}/
+    fontforge -lang=ff -c 'Open($1); Generate($2)' src/${fontfile}.sfd fonts/$namedir/${name}-${type}.ttf
+done
+
+mv fonts/DSEGWeather/DSEGWeather-DSEGWeather.ttf fonts/DSEGWeather/DSEGWeather.ttf
