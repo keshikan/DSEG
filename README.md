@@ -1,4 +1,4 @@
-DSEG Font Family (v0.44)
+DSEG Font Family (v0.45)
 ====
 
 ## Overview
