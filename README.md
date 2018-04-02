@@ -55,7 +55,7 @@ For more information, visit DSEG support page.
     - Changed file name of *.sfd to match it's font-name.
   
  - [v0.43(2017-08-15)](https://github.com/keshikan/DSEG/archive/v0.43.zip)
-    - Added package.json and registerd npmjs.com. ([merged pull request #5](https://github.com/keshikan/DSEG/pull/5))
+    - Added package.json and registerd npmjs.com. ([merged #5](https://github.com/keshikan/DSEG/pull/5). Thanks to [nils-werner](https://github.com/nils-werner))
 
  - [v0.42(2017-04-27)](https://github.com/keshikan/DSEG/archive/v0.42.zip)
     - Added WOFF2 file format.
