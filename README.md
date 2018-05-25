@@ -37,8 +37,8 @@ DSEG have special features:
 
 For more information, visit DSEG support page.
 
- - English:[http://www.keshikan.net/fonts-e.html](http://www.keshikan.net/fonts-e.html)
- - Japanese:[http://www.keshikan.net/fonts.html](http://www.keshikan.net/fonts.html)
+ - English:[https://www.keshikan.net/fonts-e.html](https://www.keshikan.net/fonts-e.html)
+ - Japanese:[https://www.keshikan.net/fonts.html](https://www.keshikan.net/fonts.html)
 
 ## Install for Node.js
 
