@@ -8,7 +8,7 @@ DSEG have special features:
 
  - Includes the roman-alphabet and symbol glyphs.
  - Many types(over 50) are available.
- - Licensed under [SIL OPEN FONT LICENSE Version 1.1](http://scripts.sil.org/OFL)
+ - Licensed under [SIL OPEN FONT LICENSE Version 1.1](http://scripts.sil.org/OFL). You can use DSEG for non-commercial and commercial purposes.
 
 ![DSEG Image](http://www.keshikan.net/img/DSEG_sample_github.png)
 
@@ -17,11 +17,11 @@ DSEG have special features:
 
 ## Usage
 
- - Colon and Space
+ - Colon and Space have same width.
 
    ![DSEG usage 1](http://www.keshikan.net/img/dseg_usage1.png)
 
- - Period
+ - Period has zero width.
 
    ![DSEG usage 2](http://www.keshikan.net/img/dseg_usage2.png)
 
@@ -32,6 +32,8 @@ DSEG have special features:
  - All-on ("8" or Tilda)
 
    ![DSEG usage 4](http://www.keshikan.net/img/dseg_usage4.png)
+
+## Others
 
 For more information, visit DSEG support page.
 
