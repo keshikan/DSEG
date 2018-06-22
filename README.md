@@ -40,8 +40,16 @@ For more information, visit DSEG support page.
  - English:[https://www.keshikan.net/fonts-e.html](https://www.keshikan.net/fonts-e.html)
  - Japanese:[https://www.keshikan.net/fonts.html](https://www.keshikan.net/fonts.html)
 
-## Install for Node.js
+## How to Install
+Download release binary, or build from source.
+If [FontForge](https://fontforge.github.io/en-US/) is installed, you can use Makefile script.
 
+    $ make
+
+### Ubuntu(18.04 or later)
+    $ sudo apt-get install fonts-dseg
+    
+### Node.js
     $ make
     $ npm install dseg
 
