@@ -7,6 +7,19 @@ for a in src/*.sfd; do
     type=$(echo $fontfile | sed "s,.*-,,")
     mkdir -p fonts/${namedir}/
     fontforge -lang=ff -c 'Open($1); Generate($2)' src/${fontfile}.sfd fonts/$namedir/${name}-${type}.ttf
+    fontforge -lang=ff -c 'Open($1); Generate($2)' src/${fontfile}.sfd fonts/$namedir/${name}-${type}.woff
 done
 
-mv fonts/DSEGWeather/DSEGWeather-DSEGWeather.ttf fonts/DSEGWeather/DSEGWeather.ttf
+for b in fonts/DSEGWeather/*; do
+    ext=$(echo $b | sed 's/^.*\.\([^\.]*\)$/\1/')
+    mv fonts/DSEGWeather/DSEGWeather-DSEGWeather.${ext} fonts/DSEGWeather/DSEGWeather.${ext}
+done
+
+
+mv fonts/DSEG7-7SEGG-CHANMINI/* fonts/DSEG7-7SEGG-CHAN
+rm -r fonts/DSEG7-7SEGG-CHANMINI
+for c in fonts/DSEG7-7SEGG-CHAN/DSEG77S*; do
+    file=$(basename $c)
+    fn=$(echo $file | sed 's/DSEG77S/DSEG7S/')
+    mv fonts/DSEG7-7SEGG-CHAN/${file} fonts/DSEG7-7SEGG-CHAN/${fn}
+done
