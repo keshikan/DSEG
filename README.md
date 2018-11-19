@@ -41,18 +41,22 @@ For more information, visit DSEG support page.
  - Japanese:[https://www.keshikan.net/fonts.html](https://www.keshikan.net/fonts.html)
 
 ## How to Install
-Download release binary, or build from source.
+
+### Download release binary
+
+[release binary](https://github.com/keshikan/DSEG/releases)
 
 ### Build from source(*.sfd)
-If [FontForge](https://fontforge.github.io/en-US/) is installed, you can use Makefile script.
 
-    $ make
+Install [FontForge](https://fontforge.github.io/en-US/) and [Google woff2](https://github.com/google/woff2), and type below.
 
-### Ubuntu(18.04 or later)
+     $ make
+
+### Install in Ubuntu(18.04 or later)
     $ sudo apt-get install fonts-dseg
     
 ### Install from npm
-    $ npm install dseg
+    $ npm i dseg
 
 ## Changelog
 
@@ -88,4 +92,3 @@ If [FontForge](https://fontforge.github.io/en-US/) is installed, you can use Mak
 ## License
 
 - Any font files(*.ttf, *.woff, *.sfd) are licensed under the [SIL OPEN FONT LICENSE Version 1.1](http://scripts.sil.org/OFL)
-

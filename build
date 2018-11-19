@@ -1,25 +1,48 @@
 #!/bin/bash
 
-for a in src/*.sfd; do
-    fontfile=$(basename $a .sfd)
-    namedir=$(echo $fontfile | sed "s,-.*,," | sed "s,Mini,-MINI,g;s,Modern,-Modern,;s,Classic,-Classic,;s,7SEGG,-7SEGG-,")
-    name=$(echo $fontfile | sed "s,-.*,,")
-    type=$(echo $fontfile | sed "s,.*-,,")
-    mkdir -p fonts/${namedir}/
-    fontforge -lang=ff -c 'Open($1); Generate($2)' src/${fontfile}.sfd fonts/$namedir/${name}-${type}.ttf
-    fontforge -lang=ff -c 'Open($1); Generate($2)' src/${fontfile}.sfd fonts/$namedir/${name}-${type}.woff
-done
+exitflg=0
 
-for b in fonts/DSEGWeather/*; do
-    ext=$(echo $b | sed 's/^.*\.\([^\.]*\)$/\1/')
-    mv fonts/DSEGWeather/DSEGWeather-DSEGWeather.${ext} fonts/DSEGWeather/DSEGWeather.${ext}
-done
+if type fontforge > /dev/null 2>&1; then
+    echo '[DSEG]Fontforge is detected.'
+else
+    echo '[DSEG]Please install fontforge.(https://fontforge.github.io/en-US/)'
+    exitflg=1
+fi
+
+if type woff2_compress > /dev/null 2>&1; then
+    echo '[DSEG]Google woff2 is detected.'
+else
+    echo '[DSEG]Please install google woff2.(https://github.com/google/woff2)'
+    exitflg=1
+fi
+
+if [ $exitflg -eq 1 ]; then
+    exit 1
+else
+    for a in src/*.sfd; do
+        fontfile=$(basename $a .sfd)
+        namedir=$(echo $fontfile | sed "s,-.*,," | sed "s,Mini,-MINI,g;s,Modern,-Modern,;s,Classic,-Classic,;s,7SEGG,-7SEGG-,")
+        name=$(echo $fontfile | sed "s,-.*,,")
+        type=$(echo $fontfile | sed "s,.*-,,")
+        mkdir -p fonts/${namedir}/
+        fontforge -lang=ff -c 'Open($1); Generate($2)' src/${fontfile}.sfd fonts/$namedir/${name}-${type}.ttf >&/dev/null
+        fontforge -lang=ff -c 'Open($1); Generate($2)' src/${fontfile}.sfd fonts/$namedir/${name}-${type}.woff >&/dev/null
+        woff2_compress fonts/$namedir/${name}-${type}.ttf >&/dev/null
+    done
+
+    for b in fonts/DSEGWeather/DSEGWeather-DSEGWeather*; do
+        ext=$(echo $b | sed 's/^.*\.\([^\.]*\)$/\1/')
+        mv fonts/DSEGWeather/DSEGWeather-DSEGWeather.${ext} fonts/DSEGWeather/DSEGWeather.${ext}
+    done
 
 
-mv fonts/DSEG7-7SEGG-CHANMINI/* fonts/DSEG7-7SEGG-CHAN
-rm -r fonts/DSEG7-7SEGG-CHANMINI
-for c in fonts/DSEG7-7SEGG-CHAN/DSEG77S*; do
-    file=$(basename $c)
-    fn=$(echo $file | sed 's/DSEG77S/DSEG7S/')
-    mv fonts/DSEG7-7SEGG-CHAN/${file} fonts/DSEG7-7SEGG-CHAN/${fn}
-done
+    mv fonts/DSEG7-7SEGG-CHANMINI/* fonts/DSEG7-7SEGG-CHAN
+    rm -r fonts/DSEG7-7SEGG-CHANMINI
+    for c in fonts/DSEG7-7SEGG-CHAN/DSEG77S*; do
+        file=$(basename $c)
+        fn=$(echo $file | sed 's/DSEG77S/DSEG7S/')
+        mv fonts/DSEG7-7SEGG-CHAN/${file} fonts/DSEG7-7SEGG-CHAN/${fn}
+    done
+
+    echo '[DSEG]DSEG font file is generated.'
+fi
