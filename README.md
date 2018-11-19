@@ -42,6 +42,8 @@ For more information, visit DSEG support page.
 
 ## How to Install
 Download release binary, or build from source.
+
+### Build from source(*.sfd)
 If [FontForge](https://fontforge.github.io/en-US/) is installed, you can use Makefile script.
 
     $ make
@@ -49,8 +51,7 @@ If [FontForge](https://fontforge.github.io/en-US/) is installed, you can use Mak
 ### Ubuntu(18.04 or later)
     $ sudo apt-get install fonts-dseg
     
-### Node.js
-    $ make
+### Install from npm
     $ npm install dseg
 
 ## Changelog
