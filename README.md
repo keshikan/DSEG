@@ -60,6 +60,10 @@ Install [FontForge](https://fontforge.github.io/en-US/) and [Google woff2](https
 
 ## Changelog
 
+ - [v0.46(2020-03-15)](https://github.com/keshikan/DSEG/releases/download/v0.46/fonts-DSEG_v046.zip)
+    - Added "DEGREE SIGN"(U+00B0).
+    - Added "LOW LINE"(U+005F) on DSEG7.
+
  - [v0.45(2018-01-09)](https://github.com/keshikan/DSEG/releases/download/v0.45/fonts-DSEG_v045.zip)
     - Added makefile and build script. (Merged [#8](https://github.com/keshikan/DSEG/pull/8) [#9](https://github.com/keshikan/DSEG/pull/9) . Thanks to [alexmyczko](https://github.com/alexmyczko))
 
