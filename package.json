@@ -1,7 +1,7 @@
 {
   "name": "dseg",
   "description": "7 segment and 14 segment LCD font",
-  "version": "0.43.0",
+  "version": "0.46.0",
   "style": "css/dseg.css",
   "keywords": [
     "font",
