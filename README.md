@@ -10,10 +10,10 @@ DSEG have special features:
  - Many types(over 50) are available.
  - Licensed under [SIL OPEN FONT LICENSE Version 1.1](http://scripts.sil.org/OFL). You can use DSEG for non-commercial and commercial purposes.
 
-![DSEG Image](http://www.keshikan.net/img/DSEG_sample_github.png)
+![DSEG Image](./sample/all_DSEG_list.png)
 
 ## Sample
-![DSEG Sample Image](http://www.keshikan.net/img/DSEG_weather_sample.png)
+![DSEG Sample Image](./sample/sample_image.png)
 
 ## Usage
 
@@ -63,7 +63,7 @@ Install [FontForge](https://fontforge.github.io/en-US/) and [Google woff2](https
  - [v0.46(2020-03-15)](https://github.com/keshikan/DSEG/releases/download/v0.46/fonts-DSEG_v046.zip)
     - Added "DEGREE SIGN"(U+00B0).
     - Added "LOW LINE"(U+005F) on DSEG7.
-    - Fixed an issue where the period(U+002E) width was not zero.
+    - Fixed an issue where the period(U+002E) width had negative value.
 
  - [v0.45(2018-01-09)](https://github.com/keshikan/DSEG/releases/download/v0.45/fonts-DSEG_v045.zip)
     - Added makefile and build script. (Merged [#8](https://github.com/keshikan/DSEG/pull/8) [#9](https://github.com/keshikan/DSEG/pull/9) . Thanks to [alexmyczko](https://github.com/alexmyczko))
