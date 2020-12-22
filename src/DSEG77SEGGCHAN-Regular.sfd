@@ -3,8 +3,7 @@ FontName: DSEG7SEGGCHAN-Regular
 FullName: DSEG7 7SEGGCHAN-Regular
 FamilyName: DSEG7 7SEGGCHAN
 Weight: Regular
-Copyright: Created by Keshikan(https://twitter.com/keshinomi_88pro)
-with FontForge 2.0 (http://fontforge.sf.net)
+Copyright: Created by Keshikan(https://twitter.com/keshinomi_88pro)\nwith FontForge 2.0 (http://fontforge.sf.net)
 UComments: "2014-8-31: Created."
 Version: 0.46
 ItalicAngle: 0
@@ -22,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409488158
-ModificationTime: 1608636934
+ModificationTime: 1608650500
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
