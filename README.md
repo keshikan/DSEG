@@ -1,4 +1,4 @@
-DSEG Font Family (v0.46)
+DSEG Font Family
 ====
 
 ## Overview
@@ -46,6 +46,8 @@ For more information, visit DSEG support page.
 
 [release binary](https://github.com/keshikan/DSEG/releases)
 
+Attention:Beta version may have compatibility issues with previous versions.
+
 ### Build from source(*.sfd)
 
 Install [FontForge](https://fontforge.github.io/en-US/) and [Google woff2](https://github.com/google/woff2), and type below.
@@ -59,6 +61,10 @@ Install [FontForge](https://fontforge.github.io/en-US/) and [Google woff2](https
     $ npm i dseg
 
 ## Changelog
+ - [v0.50beta](https://github.com/keshikan/DSEG/releases)
+    - Changed source file structure.
+    - Added and Changed some glyphs.
+    Thanks to [graphemecluster]
 
  - [v0.46(2020-03-15)](https://github.com/keshikan/DSEG/releases/download/v0.46/fonts-DSEG_v046.zip)
     - Added "DEGREE SIGN"(U+00B0).
