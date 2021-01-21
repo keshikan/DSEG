@@ -1,0 +1,105 @@
+{
+	"names": {
+		"DSEG77SEGGCHAN-Regular.sfd": {
+			"FontName": "DSEG7SEGGCHAN-Regular",
+			"FullName": "DSEG7 7SEGGCHAN-Regular",
+			"FamilyName": "DSEG7 7SEGGCHAN"
+		},
+		"DSEG77SEGGCHANMINI-Regular.sfd": {
+			"FontName": "DSEG7SEGGCHANMINI-Regular",
+			"FullName": "DSEG7 7SEGGCHAN MINI-Regular",
+			"FamilyName": "DSEG7 7SEGGCHAN MINI"
+		},
+	},
+	"coordinates": {
+		"Top": [
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 970, "y": 2000}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 970, "y": 2000}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 828, "y": 2000}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 828, "y": 2000}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 660, "y": 1903}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 675, "y": 1905}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 520, "y": 1751}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 556, "y": 1788}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 970, "y": 1768}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 970, "y": 1768}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 912, "y": 1768}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 912, "y": 1768}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 804, "y": 1713}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 818, "y": 1716}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 698, "y": 1601}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 735, "y": 1637}}
+		],
+		"Up": [
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 486, "y": 1711}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 455, "y": 1673}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 321, "y": 1514}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 319, "y": 1496}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 204, "y": 1239}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 204, "y": 1239}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 198, "y": 941}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 198, "y": 941}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 261, "y": 908}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 261, "y": 908}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 363, "y": 860}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 363, "y": 860}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 664, "y": 1563}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 632, "y": 1522}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 494, "y": 1360}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 494, "y": 1337}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 412, "y": 1088}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 412, "y": 1088}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 433, "y": 840}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 433, "y": 840}}
+		],
+		"Down": [
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 268, "y": 844}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 289, "y": 722}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 369, "y": 803}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 380, "y": 689}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 198, "y": 882}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 209, "y": 760}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 207, "y": 609}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 230, "y": 605}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 308, "y": 392}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 289, "y": 433}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 438, "y": 247}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 405, "y": 286}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 440, "y": 782}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 465, "y": 668}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 469, "y": 592}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 491, "y": 582}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 550, "y": 468}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 530, "y": 503}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 615, "y": 397}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 582, "y": 436}}
+		],
+		"Bottom": [
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 474, "y": 209}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 513, "y": 174}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 603, "y": 83}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 620, "y": 82}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 776, "y": 0}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 776, "y": 0}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 970, "y": 0}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 970, "y": 0}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 653, "y": 360}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 693, "y": 326}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 749, "y": 273}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 767, "y": 272}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 862, "y": 232}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 862, "y": 232}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 970, "y": 232}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 970, "y": 232}}
+		],
+		"Eye": [
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 776, "y": 1360}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 776, "y": 1360}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 742, "y": 1360}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 742, "y": 1360}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 692, "y": 1309}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 692, "y": 1309}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 692, "y": 1242}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 692, "y": 1242}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 692, "y": 1242}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 692, "y": 1242}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 692, "y": 1185}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 692, "y": 1185}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 730, "y": 1143}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 730, "y": 1143}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 776, "y": 1143}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 776, "y": 1143}}
+		],
+		"Mouth": [
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 480, "y": 945}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 583, "y": 916}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 659, "y": 885}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 724, "y": 885}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 842, "y": 875}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 842, "y": 875}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 970, "y": 875}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 970, "y": 875}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 478, "y": 870}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 582, "y": 834}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 489, "y": 759}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 600, "y": 735}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 510, "y": 697}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 626, "y": 672}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 672, "y": 655}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 728, "y": 653}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 855, "y": 642}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 855, "y": 642}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 970, "y": 642}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 970, "y": 642}}
+		],
+		"Dot": [
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 1940, "y": 300}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 1940, "y": 300}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 1894, "y": 300}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 1894, "y": 300}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 1824, "y": 230}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 1824, "y": 230}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 1824, "y": 138}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 1824, "y": 138}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 1824, "y": 138}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 1824, "y": 138}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 1824, "y": 58}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 1824, "y": 58}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 1877, "y": 0}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 1877, "y": 0}},
+			{"DSEG77SEGGCHAN-Regular.sfd": {"x": 1940, "y": 0}, "DSEG77SEGGCHANMINI-Regular.sfd": {"x": 1940, "y": 0}}
+		]
+	},
+	"parts": {
+		"Seg1": {"type": "Top", "segments": ["0", "1 2 3", "7", "6 5 4", "5f 6f 7f", "3f", "2f 1f 0"]},
+		"Seg2": {"type": "Up", "segments": ["0f", "1f 2f 3f", "4f 5f 9f", "8f 7f 6f", "0f"]},
+		"Seg3": {"type": "Down", "segments": ["6f", "1f 0f 2f", "3f 4f 5f", "9f", "8f 7f 6f"]},
+		"Seg4": {"type": "Bottom", "segments": ["7", "6 5 4", "0", "1 2 3", "2f 1f 0f", "4f", "5f 6f 7"]},
+		"Seg5": {"type": "Down", "segments": ["6", "1 0 2", "3 4 5", "9", "8 7 6"]},
+		"Seg6": {"type": "Up", "segments": ["0", "1 2 3", "4 5 9", "8 7 6", "0"]},
+		"Seg7": {"type": "Mouth", "segments": ["3", "2 1 0", "4 5 6", "7 8 9", "8f 7f 6f", "5f 4f 0f", "1f 2f 3"]},
+		"LeftEye": {"type": "Eye", "segments": ["0fi", "1fi 2fi 3fi", "5fi 6fi 7fi", "6gfi 5gfi 4gfi", "2gfi 1gfi 0fi"]},
+		"RightEye": {"type": "Eye", "segments": ["0i", "1i 2i 3i", "5i 6i 7i", "6gi 5gi 4gi", "2gi 1gi 0i"]},
+		"Period": {"type": "Dot", "segments": ["0", "1 2 3", "5 6 7", "6h 5h 4h", "2h 1h 0"]}
+	},
+	"transformations": {"f": 1940, "g": 1552, "h": 3880, "i": 0}
+}
