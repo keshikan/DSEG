@@ -1,3 +1,7 @@
+# Fork differences with main repo
+
+This fork includes a new font (`DSEGWeather-Faceless`) based on th existing weather font (`DSEGWeather`) that just removes the smiley face from the sun.
+
 DSEG Font Family
 ====
 
